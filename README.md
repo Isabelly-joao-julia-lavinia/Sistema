@@ -1,1 +1,17 @@
-# Sistema_Tag_clothes_etapa-2_main.c
+#  SISTEMA TAG_CLOTHES_STYLE_ETAPA 2
+
+CEFET-MG/CAMPUS LEOPOLDINA
+
+LLPA - LABORATÓRIO DE LÓGICA DE PROGRAMAÇÃO E  ALGORITMOS
+
+Trabalho - Etapa 2
+
+DATA DE  ENTREGA:  06/12/2020
+
+VALOR: 15  pontos
+
+GRUPO: Isabelly Araújo  Temoteo, João Pedro Martins Cruz, Júlia dos Santos Silva e Lavínia Rievert Ramos.
+
+
+## ARQUIVO MAIN.C COM O CÓDIGO FONTE DO PROJETO SISTEMA_TAG_CLOTHES_STYLE:
+<STATUS DO PROJETO: ETAPA 2>
